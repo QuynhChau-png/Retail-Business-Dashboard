@@ -6,14 +6,6 @@
 
 Dự án xây dựng một **hệ thống phân tích kinh doanh end-to-end** cho cửa hàng bán lẻ trực tuyến dựa trên bộ dữ liệu *Online Retail*. Dữ liệu giao dịch thô được làm sạch bằng Python, mô hình hóa thành **Star Schema** trong SQL Server (`RetailDW`), sau đó trực quan hóa bằng **Power BI (DAX)** và tích hợp vào một **Web Portal**.
 
-Đây là đồ án ngành Hệ thống thông tin quản lý:
-
-| | |
-|---|---|
-| **Đề tài** | Phân tích dữ liệu kinh doanh của cửa hàng bán lẻ sử dụng Power BI |
-| **Trường** | Đại học Mở TP.HCM |
-| **Sinh viên thực hiện** |Tương Thị Quỳnh Châu – 2354050020 |
-
 ## ✨ Tính năng chính
 
 - **Doanh thu & hiệu quả bán hàng**: doanh thu gộp, giá trị hàng trả/hủy, doanh thu thuần, xu hướng theo thời gian.
